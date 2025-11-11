@@ -79,7 +79,7 @@
         <article class="proj">
           <img src="https://juanfragrasso.github.io/TrabajaIntegradorDise-oWeb/images/logo_nuevo.png" alt="Proyecto 3">
           <a href= "https://juanfragrasso.github.io/TrabajaIntegradorDise-oWeb/index.html">Pagina grupal</a>
-          <div style="margin-top:8px">Trabajo practico grupal</div>
+          <div style="margin-top:8px"></div>
         </article>
       </div>
     </section>
