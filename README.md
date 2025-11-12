@@ -36,7 +36,7 @@
   </style>
 </head>
 <body>
-  <!-- checkbox to toggle dark mode (no JS) -->
+ 
   <div class="toggle">
     <input id="dark" type="checkbox">
     <label for="dark" onclick="document.documentElement.classList.toggle('dark')">Modo oscuro</label>
@@ -45,7 +45,7 @@
   <div class="wrap site">
     <header class="top">
       <div class="avatar">
-        <!-- replace avatar-placeholder.svg with your photo -->
+      
         <img src="https://media.licdn.com/dms/image/v2/D4D03AQGwMc82RcgNDw/profile-displayphoto-scale_400_400/B4DZk130rLJUAk-/0/1757545452619?e=1764201600&v=beta&t=D1Hc0HtG-p-ZkT4GxesPd-nG8GR135Lp1gFLgb-sLcA" alt="Foto personal">
       </div>
       <div>
